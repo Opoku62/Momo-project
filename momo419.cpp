@@ -24,7 +24,7 @@ void display(){
 string userPin = "0000";
 string newPin1;
 string newPin2;
-float userBalance = 4000.0;
+float userBalance = 1000.0;
 string pin;
 int choice;
 
